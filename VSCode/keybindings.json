@@ -1,0 +1,10 @@
+[
+    {
+        "key": "alt+z",
+        "command": "editor.action.toggleWordWrap"
+    },
+    {
+        "key": "ctrl+s c",
+        "command": "cSpell.toggleEnableForGlobal"
+    }
+]
